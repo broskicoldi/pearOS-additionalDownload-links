@@ -53,4 +53,4 @@ pearOS Catalina (old version) : https://drive.google.com/file/d/1VTo_ZjYsDDzuTeZ
 
 if any of the links doesent work and someone can provide another working link , make a issue ill see it
 
-credits to all above, Alex who made pearOS a thing and Casper the original maker of this combined links , i simply updated it
+credits to all above, Alex who made pearOS a thing and Casper the original combined links message creator , i simply made it better 
