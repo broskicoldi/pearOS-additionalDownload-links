@@ -37,6 +37,11 @@ pearOS Catalina (Outdated) : https://drive.google.com/file/d/1VTo_ZjYsDDzuTeZdGa
 
 
 
+
+
+
+
+
 More Links!
 pearOS Official Website : https://pearos.xyz/
 Old pearOS Official Website : https://beta.pearos.cf/
