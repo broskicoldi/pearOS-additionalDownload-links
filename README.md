@@ -1,10 +1,10 @@
 # -_-_-
 
 
- pearOS link
+ pearOS links, official and unofficial
 
 
-Download Link
+
 
 Official:
 pearOS ThiccSur : https://thiccsur.pearos.xyz/
