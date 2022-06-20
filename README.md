@@ -13,9 +13,9 @@ pearOS Official YouTube : https://www.youtube.com/channel/UCPDoVlbiFrjrfqNpPMh__
 
 Official:
 pearOS ThiccSur : https://thiccsur.pearos.xyz/
-pearOS Catalina Remake : https://catalina.pearos.xyz/download/
+pearOS Catalina : https://catalina.pearos.xyz/download/
 pearOS Monterey : https://monterey.pearos.xyz/
-pearOS NiceC0re Release : https://nicec0re.pearos.xyz/
+pearOS NiceC0re : https://nicec0re.pearos.xyz/
 
 =========================================================================================================================================================
 
@@ -27,7 +27,7 @@ pearOS Monterey : https://drive.google.com/file/d/1yo6V4OSWBerdSRAcSv9JgN0tJUKoQ
 
 =========================================================================================================================================================
 
-pearOS Catalina Remake : https://mega.nz/file/SuADRCCI#dMjip-Vz3etIJc3OWTzoxoF_mPtEqjkfYGxkzX8F32Q by alxb421
+pearOS Catalina : https://mega.nz/file/SuADRCCI#dMjip-Vz3etIJc3OWTzoxoF_mPtEqjkfYGxkzX8F32Q by alxb421
 
 =========================================================================================================================================================
 
