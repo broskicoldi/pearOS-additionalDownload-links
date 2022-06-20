@@ -1,9 +1,14 @@
-# -_-_-
+# pearOS official and unofficial links
 
+=========================================================================================================================================================
 
- pearOS links, official and unofficial
+ pearOS Official Website : https://pearos.xyz/
 
+Old pearOS Official Website : https://beta.pearos.cf/
+pearOS Official YouTube : https://www.youtube.com/channel/UCPDoVlbiFrjrfqNpPMh__sA
+ 
 
+=========================================================================================================================================================
 
 
 Official:
@@ -45,12 +50,6 @@ pearOS Catalina (old version) : https://drive.google.com/file/d/1VTo_ZjYsDDzuTeZ
 =========================================================================================================================================================
 
 
-More Links!
-pearOS Official Website : https://pearos.xyz/
-Old pearOS Official Website : https://beta.pearos.cf/
-pearOS Official YouTube : https://www.youtube.com/channel/UCPDoVlbiFrjrfqNpPMh__sA
-
-=========================================================================================================================================================
 
 if any of the links doesent work and someone can provide another working link , make a issue ill see it
 
