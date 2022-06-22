@@ -19,7 +19,9 @@ pearOS NiceC0re : https://nicec0re.pearos.xyz/
 
 =========================================================================================================================================================
 
-pearOS NiceC0re  : https://drive.google.com/file/d/1cK4lF9x4avOXuLlBqLPy2wvNnwIhkeCN/view?usp=sharing by Cold
+pearOS NiceC0re : https://drive.google.com/file/d/1cK4lF9x4avOXuLlBqLPy2wvNnwIhkeCN/view?usp=sharing by Cold
+
+pearOS NiceC0re torrent magnet link : magnet:?xt=urn:btih:HALHSH2OGGEDTN6WLDGEPXEU7WGN5JEZ by SolarSeven
 
 =========================================================================================================================================================
 
@@ -41,8 +43,6 @@ pearOS Cupertino (Old version) : https://mega.nz/file/XnxW2LgC#g9UL0TnPo1hhNw1Fw
 
 pearOS SnowMojave (old version) : https://archive.org/download/pearos_snowmojave_amd64_202012/pearOS_SnowMojave_amd64.iso
 by alxb421(the dev of pearOS)
-
-=========================================================================================================================================================
 
 pearOS SnowMojave GoogleDrive (Old version) : https://drive.google.com/file/d/1b8-0FRlmi2Pr379kTrirPyW0Y8rSRcgW/view?usp=sharing by Cold
 
